@@ -1,1 +1,2 @@
 # Coursera-Mathematics-for-Machine-Learning--Linear-Algebra
+This is the first course in the online course series: "Mathematics for Machine Learning". For more information, please follow the link below: https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning
